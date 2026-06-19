@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Example Hotel Kigali",
+    "location": "Kigali, Rwanda",
+    "category": "Hotels",
+    "pricePerNight": 85,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Riverside Boutique Hotel",
+    "location": "Kigali, Rwanda",
+    "category": "Hotels",
+    "pricePerNight": 95,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Kigali Serena Hotel",
+    "location": "Kigali, Rwanda",
+    "category": "Hotels",
+    "pricePerNight": 120,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Hotel des Mille Collines",
+    "location": "Kigali, Rwanda",
+    "category": "Hotels",
+    "pricePerNight": 130,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Gorilla's Nest Hotel",
+    "location": "Musanze, Rwanda",
+    "category": "Hotels",
+    "pricePerNight": 160,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=600&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Lakeside Apartments Kivu",
+    "location": "Lake Kivu, Rwanda",
+    "category": "Apartments",
+    "pricePerNight": 110,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80"
+  },
+  {
+    "id": "7",
+    "name": "City Center Studio Apartments",
+    "location": "Kigali, Rwanda",
+    "category": "Apartments",
+    "pricePerNight": 70,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=600&q=80"
+  },
+  {
+    "id": "8",
+    "name": "Nyamirambo Modern Flats",
+    "location": "Kigali, Rwanda",
+    "category": "Apartments",
+    "pricePerNight": 65,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=600&q=80"
+  },
+  {
+    "id": "9",
+    "name": "Kimihurura Executive Suites",
+    "location": "Kigali, Rwanda",
+    "category": "Apartments",
+    "pricePerNight": 90,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80"
+  },
+  {
+    "id": "10",
+    "name": "Kivu Belt Serviced Apartments",
+    "location": "Rubavu, Rwanda",
+    "category": "Apartments",
+    "pricePerNight": 80,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600&q=80"
+  },
+  {
+    "id": "11",
+    "name": "Sunrise Resort Nyungwe",
+    "location": "Nyungwe, Rwanda",
+    "category": "Resorts",
+    "pricePerNight": 150,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=600&q=80"
+  },
+  {
+    "id": "12",
+    "name": "Akagera Safari Resort",
+    "location": "Akagera, Rwanda",
+    "category": "Resorts",
+    "pricePerNight": 180,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80"
+  },
+  {
+    "id": "13",
+    "name": "One&Only Nyungwe House",
+    "location": "Nyungwe, Rwanda",
+    "category": "Resorts",
+    "pricePerNight": 350,
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1540541338537-1220059b8df2?w=600&q=80"
+  },
+  {
+    "id": "14",
+    "name": "Kivu Sun Resort",
+    "location": "Rubavu, Rwanda",
+    "category": "Resorts",
+    "pricePerNight": 200,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=600&q=80"
+  },
+  {
+    "id": "15",
+    "name": "Volcanoes Virunga Lodge",
+    "location": "Musanze, Rwanda",
+    "category": "Resorts",
+    "pricePerNight": 420,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1439130490301-25e322d88054?w=600&q=80"
+  },
+  {
+    "id": "16",
+    "name": "Hillside Villa Musanze",
+    "location": "Musanze, Rwanda",
+    "category": "Villas",
+    "pricePerNight": 200,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80"
+  },
+  {
+    "id": "17",
+    "name": "Private Garden Villa",
+    "location": "Kigali, Rwanda",
+    "category": "Villas",
+    "pricePerNight": 220,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=600&q=80"
+  },
+  {
+    "id": "18",
+    "name": "Kivu Lakefront Villa",
+    "location": "Lake Kivu, Rwanda",
+    "category": "Villas",
+    "pricePerNight": 280,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80"
+  },
+  {
+    "id": "19",
+    "name": "Nyiragongo View Villa",
+    "location": "Musanze, Rwanda",
+    "category": "Villas",
+    "pricePerNight": 260,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1598228723793-52759bba239c?w=600&q=80"
+  },
+  {
+    "id": "20",
+    "name": "Akagera Wilderness Villa",
+    "location": "Akagera, Rwanda",
+    "category": "Villas",
+    "pricePerNight": 310,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1587381420270-3e1a5b9e6904?w=600&q=80"
+  }
+]
